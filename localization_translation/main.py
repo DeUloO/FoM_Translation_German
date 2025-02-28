@@ -1,9 +1,11 @@
 import json
 import os
+from deep_translator import GoogleTranslator
 
 INPUT_FILE = "input.json"
 OUTPUT_FILE = "output.json"
 PROGRESS_FILE = "progress.json"
+TARGET_LANGUAGE = "de"
 
 
 def load_json(filename):
@@ -45,6 +47,15 @@ def save_progress(topic):
     save_json(PROGRESS_FILE, progress)
 
 
+def translate_text(text):
+    try:
+        translated_text = GoogleTranslator(source="auto", target=TARGET_LANGUAGE).translate(text)
+        return translated_text
+    except Exception as e:
+        print(f"Translation error: {e}")
+        return "Translation unavailable"
+
+
 def edit_translation(output_data):
     topics = parse_topics(output_data)
 
@@ -63,7 +74,7 @@ def edit_translation(output_data):
 
     for subkey, text in topics[topic_to_edit].items():
         print(f"{subkey}: {text}")
-        new_text = input("Edit (press enter to keep current text): ").strip()
+        new_text = input("Edit (press Enter to keep current text): ").strip()
         updated_responses[subkey] = new_text if new_text else text
 
     for subkey, new_text in updated_responses.items():
@@ -97,10 +108,15 @@ def add_translation():
             responses = {}
 
             for subkey, text in lines.items():
-                print(f"{subkey}: {text}")
-                response = input("Your response: ").strip()
-                responses[subkey] = response
+                suggested_translation = translate_text(text)
 
+                print(f"\n{subkey}: {text}")
+                print(f"Suggested translation ({TARGET_LANGUAGE}): {suggested_translation}")
+
+                response = input("Your response (press Enter to accept suggestion): ").strip()
+                responses[subkey] = response if response else suggested_translation
+
+            # Append responses to the output file in the correct format
             for subkey, response in responses.items():
                 key = f"Conversations/Activity Dialogue/{topic}/{subkey}"
                 output_data[key] = response
