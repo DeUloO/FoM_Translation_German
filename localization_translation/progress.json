@@ -1,5 +1,9 @@
 {
     "dell_hgs_1": true,
     "dell_hgs_2": true,
-    "dell_hgs_3": true
+    "dell_hgs_3": true,
+    "prologue": true,
+    "townsfolk_dell": true,
+    "dell_candy_gambit": true,
+    "dell_in_trouble": true
 }
