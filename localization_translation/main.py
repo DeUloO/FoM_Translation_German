@@ -2,9 +2,9 @@ import json
 import os
 from deep_translator import GoogleTranslator
 
-INPUT_FILE = "localization_translation/input.json"
-OUTPUT_FILE = "localization_translation/output.json"
-PROGRESS_FILE = "localization_translation/progress.json"
+INPUT_FILE = __file__ + "/../input.json"
+OUTPUT_FILE = __file__ + "/../output.json"
+PROGRESS_FILE = __file__ + "/../progress.json"
 TARGET_LANGUAGE = "de"
 
 
