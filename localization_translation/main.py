@@ -2,9 +2,10 @@ import json
 import os
 from deep_translator import GoogleTranslator
 
-INPUT_FILE = __file__ + "/../input.json"
-OUTPUT_FILE = __file__ + "/../output.json"
-PROGRESS_FILE = __file__ + "/../progress.json"
+directory = os.path.dirname(__file__)
+INPUT_FILE = os.path.join(directory, "input.json")
+OUTPUT_FILE = os.path.join(directory, "output.json")
+PROGRESS_FILE = os.path.join(directory, "progress.json")
 TARGET_LANGUAGE = "de"
 
 
@@ -91,8 +92,6 @@ def add_translation():
     while True:
         topic_filter = input("\nEnter a topic keyword to filter by: ").strip()
         matching_topics = {k: v for k, v in topics.items() if topic_filter in k}
-
-        print(len(matching_topics))
 
         if not matching_topics:
             print("No matching topics found. Try again.")
