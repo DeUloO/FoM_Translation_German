@@ -59,10 +59,6 @@ def translate_text(text):
 def edit_translation(output_data):
     topics = parse_topics(output_data)
 
-    print("\nAvailable topics for editing:")
-    for topic in topics:
-        print(f"- {topic}")
-
     topic_to_edit = input("\nEnter the full topic name to edit: ").strip()
 
     if topic_to_edit not in topics:
@@ -95,6 +91,8 @@ def add_translation():
     while True:
         topic_filter = input("\nEnter a topic keyword to filter by: ").strip()
         matching_topics = {k: v for k, v in topics.items() if topic_filter in k}
+
+        print(len(matching_topics))
 
         if not matching_topics:
             print("No matching topics found. Try again.")
