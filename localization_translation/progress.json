@@ -90,5 +90,13 @@
     "Conversations/Bank/Adeline/Banked Lines/general_store_shopping/general_store_shopping/init": true,
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/four_to_five_0/1": true,
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/four_to_five_0/init": true,
-    "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/two_to_three_0/1": true
+    "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/two_to_three_0/1": true,
+    "Conversations/Bank/Adeline/Banked Lines/repairing_the_bridge/repairing_the_bridge/1": true,
+    "Conversations/Bank/Adeline/Banked Lines/repairing_the_bridge/repairing_the_bridge/init": true,
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/1": true,
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/2": true,
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/init": true,
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/1": true,
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/10": true,
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/11": true
 }

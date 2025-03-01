@@ -63,6 +63,7 @@
     "Conversations/Bank/Adeline/Banked Lines/check_in_on_elsie/check_in_on_elsie/init": "Ich weiss es sehr zu schätzen, dass du dich um Grosstante Elsie kümmerst. Ich kann nicht mehr mit ihr Schritt halten!",
     "Conversations/Group Conversations/Josephine_Nora/bath/bath/1": "Er sieht ziemlich alt aus... Ich frage mich, ob Eiland mal einen Blick darauf geworfen hat.",
     "Conversations/Group Conversations/Josephine_Nora/bath/bath/init": "In diesem Bad fühle ich mich immer wie eine Königin! Der steinerne Drache ist so majestätisch...",
+<<<<<<< HEAD
     "Conversations/Bank/Adeline/Banked Lines/bath/bath/1": "Und deshalb hab ich es in meinen Zeitplan aufgenommen!",
     "Conversations/Bank/Adeline/Banked Lines/bath/bath/init": "Puh ... ein schönes, entspannendes Bad war genau das, was ich brauchte.",
     "Conversations/Bank/Adeline/Banked Lines/bathhouse/bathhouse/init": "Das Badehaus ist wirklich schön. Kein Wunder, dass Tante Elsie so viel Zeit dort verbringt.",
@@ -91,4 +92,14 @@
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/four_to_five_0/1": "Lasst uns weiter hart für Mistria arbeiten!",
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/four_to_five_0/init": "Du bist immer so beschäftigt, [Ari]. Das hält mich motiviert.",
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/two_to_three_0/1": "Es freut mich, dass es dir so gut gefällt!"
+=======
+    "Conversations/Bank/Adeline/Banked Lines/repairing_the_bridge/repairing_the_bridge/1": "Sei gespannt, [Ari]! Jetzt geht es um zivile Infrastruktur!",
+    "Conversations/Bank/Adeline/Banked Lines/repairing_the_bridge/repairing_the_bridge/init": "Die Brückenreperatur ist nur der Anfang.",
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/1": "Du hast geholfen, die Brücke in die Stadt zu reparieren?",
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/2": "Gut gemacht, [Ari]. Ich bin sicher, dass die Bewohner deine Bemühungen zu schätzen wissen.",
+    "Conversations/Bank/Caldarus/Statue Lines/general_lines/after_repairing_bridge/init": "Du hast das Gefühl, mit der Statue von Caldarus sprechen zu müssen.",
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/1": "Es ist schön hier draussen, nicht wahr?",
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/10": "Stimmt!",
+    "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/11": "Ich werde eine $Spendenkiste$ aufstellen. Ich schätze, wenn du $300 Holz$, $150 Steine$, $50 Fasern$ und $1000t$ an Terithia lieferst sollte alles abgedeckt sein."
+>>>>>>> 6d20734 (Translated some bridge lines)
 }
