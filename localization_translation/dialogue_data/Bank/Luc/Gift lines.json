@@ -1,0 +1,18 @@
+{
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/birthday_gift/1": "Thank you, [Ari]!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/birthday_gift/init": "Wow! A birthday present! For me!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/disliked_gift/init": "Aw... I was hoping you were going to give me something interesting...",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/frog/init": "A $Frog$? No! It will eat up my insect collection! Dell's the frog-liker, not me!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/grilled_cheese/init": "A =Grilled Cheese= sandwich! Wow! This will go great with Reina's soup of the day!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/liked_gift_1/init": "Yay, this is great, [Ari]! I gotta show my sisters!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/liked_gift_edible/init": "A snack! Thanks [Ari], I'm gonna share this with the Dragonguard!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/liked_gift_insects_1/init": "What a cool bug! How did you know I'd like this, [Ari]? Thank you!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/liked_gift_insects_2/init": "A new friend for my collection! Thanks [Ari], I'm gonna give this guy a good home!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/liked_gift_insects_3/init": "Wow, thanks [Ari]! You're a natural at bug-catching!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/loved_gift_1/init": "You're so cool, [Ari]! Thanks for sharing something this amazing with me!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/loved_gift_insects_1/init": "[Ari], wow! What a rare specimen! Is this really for me? I have to document it right away!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/loved_gift_insects_2/init": "Look at this rare beauty! You see the colors here? And the shape of the antennae? So cute!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/loved_gift_insects_3/init": "Whooooa, I love it! Look at those little legs! Thank you very much, [Ari]!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/neutral_gift/init": "Thank you!",
+    "Conversations/Bank/Luc/Gift Lines/gift_lines/neutral_gift_2/init": "Oh, for me? Let me think... yes, I think I can find room for it."
+}

@@ -1,0 +1,14 @@
+{
+    "items/other/blacksmithing/shovel_copper/description": "A copper shovel. Can be charged to dig 3 tiles in a row.",
+    "items/other/blacksmithing/shovel_copper/name": "Copper Shovel",
+    "items/other/blacksmithing/shovel_gold/description": "A splendid golden shovel. Can be charged to dig a 6x6 area.",
+    "items/other/blacksmithing/shovel_gold/name": "Gold Shovel",
+    "items/other/blacksmithing/shovel_iron/description": "An iron shovel. Can be charged to dig a 3x3 area.",
+    "items/other/blacksmithing/shovel_iron/name": "Iron Shovel",
+    "items/other/blacksmithing/shovel_mistril/description": "A shovel made from mistril. Can be charged to dig a 6x9 area.",
+    "items/other/blacksmithing/shovel_mistril/name": "Mistril Shovel",
+    "items/other/blacksmithing/shovel_silver/description": "A silver shovel. Can be charged to dig a 3x6 area.",
+    "items/other/blacksmithing/shovel_silver/name": "Silver Shovel",
+    "items/other/blacksmithing/shovel_worn/description": "A worn but still serviceable shovel. Used to expand fields, excavate dig spots, and destroy crops.",
+    "items/other/blacksmithing/shovel_worn/name": "Worn Shovel"
+}

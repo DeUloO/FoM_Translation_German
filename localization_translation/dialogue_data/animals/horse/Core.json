@@ -1,0 +1,7 @@
+{
+    "ranching/animals/horse/core/female_other": "a mare",
+    "ranching/animals/horse/core/male_other": "a stallion",
+    "ranching/animals/horse/core/name": "Horse",
+    "ranching/animals/horse/core/new_baby_born": "A new Horse was born! Enter new name",
+    "ranching/animals/horse/core/plural_name": "Horses"
+}

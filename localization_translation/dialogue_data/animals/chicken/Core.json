@@ -1,0 +1,7 @@
+{
+    "ranching/animals/chicken/core/female_other": "a hen",
+    "ranching/animals/chicken/core/male_other": "a rooster",
+    "ranching/animals/chicken/core/name": "Chicken",
+    "ranching/animals/chicken/core/new_baby_born": "A new Chicken was born! Enter new name",
+    "ranching/animals/chicken/core/plural_name": "Chickens"
+}

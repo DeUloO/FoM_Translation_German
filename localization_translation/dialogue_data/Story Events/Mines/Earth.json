@@ -1,0 +1,11 @@
+{
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal/1": "^The seal... well done...^",
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal/2": "^Offer essence... the dragon statue... above...^",
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal/3": "^Gain strength... to proceed.^",
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal/init": "^Hero... thank you for breaking...^",
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal_follow_up_celine/1": "I'm so glad! The codex Mistria really is useful, isn't it?",
+    "Cutscenes/Story Events/Mines/earth_seal/break_earth_seal_follow_up_celine/init": "Did the translation work out for you, [Ari]?",
+    "Cutscenes/Story Events/Mines/earth_seal/earth_seal/1": "^Dragon's... power...^",
+    "Cutscenes/Story Events/Mines/earth_seal/earth_seal/2": "^Restore...!^",
+    "Cutscenes/Story Events/Mines/earth_seal/earth_seal/init": "^Hero... break... seal...^"
+}

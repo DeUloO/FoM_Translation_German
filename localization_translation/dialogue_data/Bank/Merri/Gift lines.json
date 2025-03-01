@@ -1,0 +1,17 @@
+{
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/birthday_gift/init": "Oh, a birthday gift! You're so nice to think of me, [Ari].",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/disliked_gift/init": "It's a little... um... well, what do YOU think of it? No, don't answer that.",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/glass/init": "This =Glass= has such wonderful clarity! I know just what I'm going to use it on.",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/hard_wood/init": "=Hardwood=! You can never have enough when you're in my business. Thank you, [Ari]!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/latte/init": "A =Latte=! Thanks, [Ari]. I was just thinking I needed something zippy.",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/liked_gift/init": "Haha, if you can use it to make furniture you know I'll probably like it! Thanks, [Ari].",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/liked_gift_2/init": "This is great! Thanks for thinking of me, [Ari].",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/liked_gift_materials/init": "Ooh, I always need more of this around! It'll get used up in a jiffy.",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/loved_gift/init": "Oh thank you [Ari], I love it!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/loved_gift_2/init": "Oh wow, [Ari]! You don't come across something this fancy so often! I really appreciate it!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/loved_gift_gems/1": "Now, what to use it for... oh, I'm so excited!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/loved_gift_gems/init": "A perfect diamond! Wowee, you don't see something like this every day!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/loved_gift_quality/init": "This is incredible, [Ari]! With such quality materials, I could make my refurbished projects look better than new!",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/neutral_gift/init": "Thank you.",
+    "Conversations/Bank/Merri/Gift Lines/gift_lines/snail/init": "Yuck..."
+}

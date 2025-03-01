@@ -1,0 +1,15 @@
+{
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/birthday_gift/init": "To think I'd still be receiving birthday presents at my age! Thank you, [Ari]. I'll treasure this.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/disliked_gift/init": "This is, ah... for me? Maybe I can find a place for it in our back catalog...",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/hard_boiled_egg/1": "The shiny orb of the egg... the shiny orb of my pate... I must protest at the comparison!",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/hard_boiled_egg/init": "[Ari]... are you trying to say something with this gift of a $Boiled Egg$?",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/liked_gift/init": "Oh! This is most generous of you, [Ari]. My thanks.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/liked_gift_2/init": "Tremendously thoughtful of you, [Ari]. Thank you.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/liked_gift_drinks/init": "It's so kind of you to bring me a bit of refreshment. Cheers!",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/liked_gift_food/init": "This is just the thing to brighten the day. My thanks, [Ari].",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/loved_gift/init": "Why thank you very much indeed, [Ari]!.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/loved_gift_2/init": "Goodness, what a considerate gift! You have my most hearty thanks.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/loved_gift_edible_1/init": "Oh, this is a great favorite of mine! And it looks wonderful! I can't wait to tuck into it.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/loved_gift_edible_2/init": "Oho, how did you know my weakness? I must make time to properly appreciate this later.",
+    "Conversations/Bank/Errol/Gift Lines/gift_lines/neutral_gift/init": "My thanks, [Ari]."
+}

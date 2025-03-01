@@ -1,0 +1,18 @@
+{
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/birthday_gift/1": "The Dragonguard will remember this.",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/birthday_gift/init": "A birthday present? Wow, [Ari]! You're the best ever!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/broccoli/init": "A r-real hero could handle this $Broccoli$... I gotta keep training...",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/disliked_gift/1": "Oh, maybe I can throw it in the ocean!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/disliked_gift/init": "What should I do with this, [Ari]?",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/liked_gift/init": "Yay! Thank you, [Ari]!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/liked_gift_2/init": "Aw, neat! Thanks, [Ari]!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/liked_gift_edible/init": "Yay! I'm gonna share this with Luc and Maple!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift/1": "I gotta go put this in the Dragonguard's secret treasure vault!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift/init": "[Ari], you'd give me something this cool?!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift_2/init": "Wow! You find all the coolest stuff, [Ari]! Thanks!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift_critter/init": "Oh wow, a new buddy! I gotta show everyone! Thanks [Ari]!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift_edible/init": "Ooh, more Dragonguard adventuring rations! This is perfect for our next expedition!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift_sword/1": "That's the back of my closet where my mom won't find it!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/loved_gift_sword/init": "Holy moly, a sword! I'm gonna add this to the Dragonguard armory!",
+    "Conversations/Bank/Dell/Gift Lines/gift_lines/neutral_gift/init": "Thanks!"
+}

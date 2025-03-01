@@ -1,0 +1,12 @@
+{
+    "items/furniture/starter_farm_set/field_clear/description": "Use this item to clear decorative details from a grass tile.",
+    "items/furniture/starter_farm_set/field_clear/name": "Grass Tile Clear",
+    "items/furniture/starter_farm_set/field_flower/description": "Use this item to add a single flower detail to a grass tile.",
+    "items/furniture/starter_farm_set/field_flower/name": "Grass Tile Flower",
+    "items/furniture/starter_farm_set/field_flower_two/description": "Use this item to add two flower details to a grass tile.",
+    "items/furniture/starter_farm_set/field_flower_two/name": "Grass Tile 2 Flowers",
+    "items/furniture/starter_farm_set/field_grass/description": "Use this item to add a grass blade detail to a grass tile.",
+    "items/furniture/starter_farm_set/field_grass/name": "Grass Tile Blades",
+    "items/furniture/starter_farm_set/field_grass_two/description": "Use this item to add two grass blade details to a grass tile.",
+    "items/furniture/starter_farm_set/field_grass_two/name": "Field Grass 2 Blades"
+}

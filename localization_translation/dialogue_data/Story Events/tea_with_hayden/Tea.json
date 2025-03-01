@@ -1,0 +1,16 @@
+{
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/1": "So you're looking to raise some $animals$? I've got quite the selection to choose from, [Ari]!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/10": "Don't be a stranger, [Ari]! I can tell Henrietta appreciates your company, and so do I!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/2": "If you $feed$ them, $pet$ them, and $call them outside on nice days$, they'll reward you with all sorts of wonderful produce!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/3": "Fresh $eggs$ and $milk$ are real useful if you like $cooking$. You can also sell them for a nice profit!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/4": "Some animals even provide useful crafting materials, such as $feathers$ and $wool$.",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/5": "Mistria also holds an annual $Animal Festival$ with great prizes...",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/6": "Although you might find the competition a little stiff against my Henrietta!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/7": "If you go on to $breed$ your animals with $Heart Shaped Treats$, you can even pair them to produce $rare colors$!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/8": "Here's some $milled feed$ to get you started, but don't forget you can also let them $graze$ or even $hand feed$ them as a treat.",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/9": "Well, I think that's about everything for now.",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/init": "Thanks for stopping by! Come on in, put up your feet!",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/tutorial_prompt": "Would you like to view the $Ranching Tutorial$?",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/tutorial_prompt/prompts/0": "Yes",
+    "Cutscenes/Story Events/tea_with_hayden/tea_with_hayden/tutorial_prompt/prompts/1": "No"
+}

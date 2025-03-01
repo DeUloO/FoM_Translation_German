@@ -1,0 +1,16 @@
+{
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal/1": "^Dragon... Priestess...^",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal/2": "^Meet... below...^",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal/init": "^Hero... thank you... I am...^",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_eiland/1": "I can't wait to find out what you discover next. How exciting!",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_eiland/init": "The tablet translation helped you find a path leading deeper underground? Incredible!",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/1": "You're hiding something from me aren't you?",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/2": "I can feel an increase in magic energy. What exactly did you do?",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/3": "You broke a magic seal!? You expect me to believe that?",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/4": "Oh ho ho ho!",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/5": "You should really stick to farming. Leave the magic stuff to me.",
+    "Cutscenes/Story Events/Mines/water_seal/break_water_seal_follow_up_juniper/init": "[Ari], [Ari], [Ari]...",
+    "Cutscenes/Story Events/Mines/water_seal/water_seal/1": "^Hero... the Water Seal...^",
+    "Cutscenes/Story Events/Mines/water_seal/water_seal/2": "The tablet has an unknown language inscribed upon it. $Eiland might be able to translate the text if you take a rubbing of the tablet to him$.",
+    "Cutscenes/Story Events/Mines/water_seal/water_seal/init": "A faint whisper breaks the silence..."
+}

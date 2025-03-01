@@ -1,0 +1,17 @@
+{
+    "ranching/animals/alpaca/variants/black/name": "Black",
+    "ranching/animals/alpaca/variants/blue/name": "Blue",
+    "ranching/animals/alpaca/variants/brown/name": "Brown",
+    "ranching/animals/alpaca/variants/desert/name": "Desert",
+    "ranching/animals/alpaca/variants/fall/name": "Fall",
+    "ranching/animals/alpaca/variants/gold/name": "Gold",
+    "ranching/animals/alpaca/variants/indigo/name": "Indigo",
+    "ranching/animals/alpaca/variants/pink/name": "Pink",
+    "ranching/animals/alpaca/variants/purple/name": "Purple",
+    "ranching/animals/alpaca/variants/silver/name": "Silver",
+    "ranching/animals/alpaca/variants/snowy/name": "Snowy",
+    "ranching/animals/alpaca/variants/spring/name": "Spring",
+    "ranching/animals/alpaca/variants/summer/name": "Summer",
+    "ranching/animals/alpaca/variants/white/name": "White",
+    "ranching/animals/alpaca/variants/winter/name": "Winter"
+}

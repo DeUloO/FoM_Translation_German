@@ -1,0 +1,10 @@
+{
+    "ui/crafting/milling/categories/0/name": "Animal Feed",
+    "ui/crafting/milling/categories/0/sub_categories/0/name": "Animal Feed",
+    "ui/crafting/milling/categories/1/name": "Animal Products",
+    "ui/crafting/milling/categories/1/sub_categories/0/name": "Animal Products",
+    "ui/crafting/milling/categories/2/name": "Milled Ingredients",
+    "ui/crafting/milling/categories/2/sub_categories/0/name": "Milled Ingredients",
+    "ui/crafting/milling/categories/3/name": "Miscellaneous",
+    "ui/crafting/milling/categories/3/sub_categories/0/name": "Miscellaneous"
+}

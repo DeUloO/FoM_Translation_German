@@ -1,0 +1,20 @@
+{
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/birthday_gift/1": "You have a generous heart, [Ari]! Thank you!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/birthday_gift/init": "A birthday present? For me?",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/disliked_gift/init": "Not that I'm not appreciative, but... oh, maybe it's for Henrietta?",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/liked_gift/init": "Now isn't this thoughtful of you, [Ari]. Thank you!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/liked_gift_2/init": "That's grand of you! I appreciate it.",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/liked_gift_3/init": "Aw, shucks! Thank you kindly, [Ari].",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/liked_gift_produce/init": "Just had in mind that I needed to restock my cupboard! Thank you, [Ari].",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift/init": "Well ain't this something! I love it, [Ari]!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_2/init": "You know me well, [Ari], and I'm mighty grateful for it.",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_3/init": "This is more than just neighborly, [Ari]. Thank you, I love it!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_edible/init": "Oho, this'll hit the spot. I'm gonna sneak a slice the second your eyes are off me!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_edible_2/1": "GYA HA HA!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_edible_2/init": "Oh, I know this is going to hit the spot! Nothing like something hearty and hot on... well, any day!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_produce/init": "Well now, would you look at that quality! Something like this comes only from the happiest of livestock. It's quite the gift, [Ari]!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_produce_2/1": "As one rancher to another, the quality of this produce can't be beat!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/loved_gift_produce_2/init": "Well! This is mighty thoughtful of you, [Ari].",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/neutral_gift/init": "Well thanks!",
+    "Conversations/Bank/Hayden/Gift Lines/gift_lines/sushi_platter/init": "I'm not really a $Sashimi$ kind of guy. I think of fish more as friends than meals."
+}

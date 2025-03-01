@@ -1,0 +1,16 @@
+{
+    "items/furniture/inn_set/inn_candle/description": "A single candle, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_candle/name": "Inn Candle",
+    "items/furniture/inn_set/inn_counter/description": "A kitchen counter, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_counter/name": "Inn Counter",
+    "items/furniture/inn_set/inn_cross_stitch/description": "Framed cross stitch wall art, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_cross_stitch/name": "Inn Cross Stitch",
+    "items/furniture/inn_set/inn_kitchen_shelves/description": "Wall mounted kitchen shelves, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_kitchen_shelves/name": "Inn Kitchen Shelves",
+    "items/furniture/inn_set/inn_stool/description": "An upholstered stool, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_stool/name": "Inn Stool",
+    "items/furniture/inn_set/inn_tile_flooring/description": "Stone tile flooring, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_tile_flooring/name": "Inn Tile Flooring",
+    "items/furniture/inn_set/inn_wooden_flooring/description": "Herringbone wood flooring, matching the design used at the Inn.",
+    "items/furniture/inn_set/inn_wooden_flooring/name": "Inn Wooden Flooring"
+}

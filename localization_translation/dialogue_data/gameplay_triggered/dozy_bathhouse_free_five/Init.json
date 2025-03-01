@@ -1,0 +1,5 @@
+{
+    "Conversations/gameplay_triggered/dozy_bathhouse_free_five/init": "(Dozy gently acknowledges that this is your last free bath... but he hopes you'll be back soon)",
+    "Conversations/gameplay_triggered/dozy_bathhouse_free_five/init/prompts/0": "Thanks Dozy! I'll head on in.",
+    "Conversations/gameplay_triggered/dozy_bathhouse_free_five/init/prompts/1": "On second thought, I'll come back later."
+}

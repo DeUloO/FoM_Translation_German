@@ -1,0 +1,17 @@
+{
+    "ranching/animals/cow/variants/black/name": "Black",
+    "ranching/animals/cow/variants/blue/name": "Blue",
+    "ranching/animals/cow/variants/brown/name": "Brown",
+    "ranching/animals/cow/variants/chocolate/name": "Chocolate",
+    "ranching/animals/cow/variants/fall/name": "Fall",
+    "ranching/animals/cow/variants/gold/name": "Gold",
+    "ranching/animals/cow/variants/pink/name": "Pink",
+    "ranching/animals/cow/variants/purple/name": "Purple",
+    "ranching/animals/cow/variants/red/name": "Red",
+    "ranching/animals/cow/variants/silver/name": "Silver",
+    "ranching/animals/cow/variants/spotted/name": "Spotted",
+    "ranching/animals/cow/variants/spring/name": "Spring",
+    "ranching/animals/cow/variants/summer/name": "Summer",
+    "ranching/animals/cow/variants/white/name": "White",
+    "ranching/animals/cow/variants/winter/name": "Winter"
+}

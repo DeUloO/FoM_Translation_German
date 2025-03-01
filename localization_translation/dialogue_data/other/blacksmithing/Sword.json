@@ -1,0 +1,20 @@
+{
+    "items/other/blacksmithing/sword_copper/description": "A copper sword.",
+    "items/other/blacksmithing/sword_copper/name": "Copper Sword",
+    "items/other/blacksmithing/sword_crystal/description": "A crystal sword.",
+    "items/other/blacksmithing/sword_crystal/name": "Crystal Sword",
+    "items/other/blacksmithing/sword_gold/description": "A splendid golden sword.",
+    "items/other/blacksmithing/sword_gold/name": "Gold Sword",
+    "items/other/blacksmithing/sword_iron/description": "An iron sword.",
+    "items/other/blacksmithing/sword_iron/name": "Iron Sword",
+    "items/other/blacksmithing/sword_mistril/description": "A sword made from mistril.",
+    "items/other/blacksmithing/sword_mistril/name": "Mistril Sword",
+    "items/other/blacksmithing/sword_scrap_metal/description": "A sword constructed out of scrap metal.",
+    "items/other/blacksmithing/sword_scrap_metal/name": "Scrap Metal Sword",
+    "items/other/blacksmithing/sword_silver/description": "A silver sword.",
+    "items/other/blacksmithing/sword_silver/name": "Silver Sword",
+    "items/other/blacksmithing/sword_verdigris/description": "A verdigris sword.",
+    "items/other/blacksmithing/sword_verdigris/name": "Verdigris Sword",
+    "items/other/blacksmithing/sword_worn/description": "A worn but still serviceable sword. Used to cut grass and to fight, if necessary.",
+    "items/other/blacksmithing/sword_worn/name": "Worn Sword"
+}

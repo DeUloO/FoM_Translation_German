@@ -1,0 +1,12 @@
+{
+    "items/other/misc/medium_barn_black_blueprint/description": "Use this item to place a medium white barn construction site on your farm! Requirements to build: 125 wood, 100 stone.",
+    "items/other/misc/medium_barn_black_blueprint/name": "Medium White Barn Blueprint",
+    "items/other/misc/medium_barn_red_blueprint/description": "Use this item to place a medium red barn construction site on your farm! Requirements to build: 125 wood, 100 stone.",
+    "items/other/misc/medium_barn_red_blueprint/name": "Medium Red Barn Blueprint",
+    "items/other/misc/medium_coop_black_blueprint/description": "Use this item to place a medium white coop construction site on your farm! Requirements to build: 100 wood, 75 stone.",
+    "items/other/misc/medium_coop_black_blueprint/name": "Medium White Coop Blueprint",
+    "items/other/misc/medium_coop_red_blueprint/description": "Use this item to place a medium red coop construction site on your farm! Requirements to build: 100 wood, 75 stone.",
+    "items/other/misc/medium_coop_red_blueprint/name": "Medium Red Coop Blueprint",
+    "items/other/misc/medium_mob_coin/description": "You shouldn't have this!",
+    "items/other/misc/medium_mob_coin/name": "coin"
+}

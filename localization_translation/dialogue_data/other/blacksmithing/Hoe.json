@@ -1,0 +1,14 @@
+{
+    "items/other/blacksmithing/hoe_copper/description": "A copper hoe. Can be charged to till 3 tiles in a row.",
+    "items/other/blacksmithing/hoe_copper/name": "Copper Hoe",
+    "items/other/blacksmithing/hoe_gold/description": "A splendid golden hoe. Can be charged to till a 6x6 area.",
+    "items/other/blacksmithing/hoe_gold/name": "Gold Hoe",
+    "items/other/blacksmithing/hoe_iron/description": "An iron hoe. Can be charged to till a 3x3 area.",
+    "items/other/blacksmithing/hoe_iron/name": "Iron Hoe",
+    "items/other/blacksmithing/hoe_mistril/description": "A hoe made from mistril. Can be charged to till a 6x9 area.",
+    "items/other/blacksmithing/hoe_mistril/name": "Mistril Hoe",
+    "items/other/blacksmithing/hoe_silver/description": "A silver hoe. Can be charged to till a 3x6 area.",
+    "items/other/blacksmithing/hoe_silver/name": "Silver Hoe",
+    "items/other/blacksmithing/hoe_worn/description": "A worn but still serviceable hoe. Used to till dirt in preparation for planting seeds.",
+    "items/other/blacksmithing/hoe_worn/name": "Worn Hoe"
+}

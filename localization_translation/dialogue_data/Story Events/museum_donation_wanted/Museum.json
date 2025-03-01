@@ -1,0 +1,22 @@
+{
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/1": "I assume this is about my letter?",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/10": "Splendid! As an official surveyor, let me give you a small stipend to welcome you.",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/2": "Excellent!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/3": "In my talks with Lord Eiland and Lady Adeline, they entreated me to concern myself with objects from antiquity...",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/4": "As well as to use the museum to showcase the many unique specimens of Mistria.",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/5": "To wit, if you could bring me not only your $Archaeological Finds$ but also the $Plants$, $Insects$, and $Fish$ of the region! I believe together we can create a museum that's one of a kind!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/5/prompts/0": "You want... bugs?!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/5/prompts/1": "You want... my crops?!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/6": "Indeed! I will display the items that you donate so that visitors from far and wide can appreciate what Mistria has to offer!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/7": "And do not think we would be ungrateful, there is a generous reimbursement policy set up by the Historical Society. $Renown$ and all kinds of $Rewards$!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/8": "Would you like to view the $Museum Tutorial$?",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/8/prompts/0": "Yes",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/8/prompts/1": "No",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/9": "What do you say, [Ari]? Can we count on you?",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/9/prompts/0": "Let's get digging!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/9/prompts/1": "Get ready for an alarming variety of creepy crawlies!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted/init": "[Ari]! Welcome, welcome!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted_follow_up_1/1": "I knew the Mistria Historical Society could count on your support!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted_follow_up_1/init": "Errol talked to you about the museum? Fantastic!",
+    "Cutscenes/Story Events/museum_donation_wanted/museum_donation_wanted_follow_up_5/init": "Oh, Lord Eiland will be thrilled that you're supporting the museum. The Mistria Historical Society is indebted to you!"
+}

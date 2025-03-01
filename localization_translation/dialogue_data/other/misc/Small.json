@@ -1,0 +1,10 @@
+{
+    "items/other/misc/small_barn_black_blueprint/description": "Use this item to place a small white barn construction site on your farm! Requirements to build: 100 wood, 75 stone.",
+    "items/other/misc/small_barn_black_blueprint/name": "Small White Barn Blueprint",
+    "items/other/misc/small_barn_red_blueprint/description": "Use this item to place a small red barn construction site on your farm! Requirements to build: 100 wood, 75 stone.",
+    "items/other/misc/small_barn_red_blueprint/name": "Small Red Barn Blueprint",
+    "items/other/misc/small_coop_black_blueprint/description": "Use this item to place a small white coop construction site on your farm! Requirements to build: 75 wood, 50 stone.",
+    "items/other/misc/small_coop_black_blueprint/name": "Small White Coop Blueprint",
+    "items/other/misc/small_coop_red_blueprint/description": "Use this item to place a small red coop construction site on your farm! Requirements to build: 75 wood, 50 stone.",
+    "items/other/misc/small_coop_red_blueprint/name": "Small Red Coop Blueprint"
+}

@@ -1,0 +1,16 @@
+{
+    "Cutscenes/Story Events/full_restore/full_restore/1": "I am grateful.",
+    "Cutscenes/Story Events/full_restore/full_restore/2": "...",
+    "Cutscenes/Story Events/full_restore/full_restore/3": "The powers and sight of a dragon are vast.",
+    "Cutscenes/Story Events/full_restore/full_restore/4": "As I was saying...",
+    "Cutscenes/Story Events/full_restore/full_restore/5": "I have now recalled a particular $Spell$ suitable for human use, as well as the means by which to bestow it to you.",
+    "Cutscenes/Story Events/full_restore/full_restore/6": "I will now grant you the $Full Restore Spell$, you will be able to access it from your $Journal$. As its name suggests, casting it will $fully restore your Health and Stamina$.",
+    "Cutscenes/Story Events/full_restore/full_restore/7": "Your $Mana$ will restore bit by bit each night after a $Spell$ has been cast. Use it wisely.",
+    "Cutscenes/Story Events/full_restore/full_restore/7/prompts/0": "Thank you for entrusting me with this spell, great Caldarus.",
+    "Cutscenes/Story Events/full_restore/full_restore/7/prompts/1": "Full Restore? Really? Couldn't you have given it a cooler name?",
+    "Cutscenes/Story Events/full_restore/full_restore/8": "You are most welcome. Practice your magic and continue to hone your abilities. We will speak again soon.",
+    "Cutscenes/Story Events/full_restore/full_restore/9": "I would have thought that being granted magical powers by a dragon would have been \"cool\" enough on its own. Wake, brazen mortal.",
+    "Cutscenes/Story Events/full_restore/full_restore/init": "You have been hard at work around Mistria, [Ari]. The magic returning to me through your efforts has begun to clear my mind.",
+    "Cutscenes/Story Events/full_restore/full_restore/init/prompts/0": "It's an honor to help out!",
+    "Cutscenes/Story Events/full_restore/full_restore/init/prompts/1": "Wait, you've been WATCHING me?"
+}

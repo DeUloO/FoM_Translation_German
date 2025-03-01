@@ -1,0 +1,5 @@
+{
+    "Conversations/gameplay_triggered/offering_interaction/init": "A statue with an altar. Make an offering?",
+    "Conversations/gameplay_triggered/offering_interaction/init/prompts/0": "Place [offering_item_count] [offering_item_name]",
+    "Conversations/gameplay_triggered/offering_interaction/init/prompts/1": "Not Now"
+}

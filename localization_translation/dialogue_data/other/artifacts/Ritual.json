@@ -1,0 +1,12 @@
+{
+    "items/other/artifacts/ritual_beads/description": "An uncommon artifact. Running these beads through your hand evokes a feeling of serenity.",
+    "items/other/artifacts/ritual_beads/name": "Ritual Beads",
+    "items/other/artifacts/ritual_chalice/description": "An uncommon artifact. This ornate chalice was presumably used during ancient rituals.",
+    "items/other/artifacts/ritual_chalice/name": "Ritual Chalice",
+    "items/other/artifacts/ritual_incense_burner/description": "An uncommon artifact. The faint scent of incense still clings to this ancient burner.",
+    "items/other/artifacts/ritual_incense_burner/name": "Ritual Incense Burner",
+    "items/other/artifacts/ritual_scepter/description": "A rare artifact. This ritual scepter was likely used by Dragon Priestesses during rituals.",
+    "items/other/artifacts/ritual_scepter/name": "Ritual Scepter",
+    "items/other/artifacts/ritual_tablet/description": "A rare artifact. This tablet has a series of pictographs that show how to perform a ritual. It appears that one of the figures is a dragon.",
+    "items/other/artifacts/ritual_tablet/name": "Ritual Tablet"
+}

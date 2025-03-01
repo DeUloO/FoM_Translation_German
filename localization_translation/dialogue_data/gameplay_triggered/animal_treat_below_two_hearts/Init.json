@@ -1,0 +1,3 @@
+{
+    "Conversations/gameplay_triggered/animal_treat_below_two_hearts/init": "$[ANIMAL_NAME]$ cannot breed until they've reached $2 Hearts$!"
+}

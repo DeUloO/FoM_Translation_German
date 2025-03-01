@@ -1,0 +1,19 @@
+{
+    "Conversations/General Dialogue/time_of_day/late_night_1/init": "Good evening!",
+    "Conversations/General Dialogue/time_of_day/late_night_2/init": "Isn't Mistria peaceful after the sun sets?",
+    "Conversations/General Dialogue/time_of_day/late_night_3/init": "Out for a late night stroll? It's a great way to relax before bed.",
+    "Conversations/General Dialogue/time_of_day/late_night_4/init": "Another full day! Here's hoping you had a good one, [Ari].",
+    "Conversations/General Dialogue/time_of_day/late_night_5/init": "Doubt I'll see you again before bed, so good night [Ari]!",
+    "Conversations/General Dialogue/time_of_day/late_night_balor/init": "I suppose I should think about heading to bed, lots to do tomorrow.",
+    "Conversations/General Dialogue/time_of_day/late_night_holt/1": "I guess I should give it a rest.",
+    "Conversations/General Dialogue/time_of_day/late_night_holt/init": "I've been trying to think of a good sleep pun, but it's getting late.",
+    "Conversations/General Dialogue/time_of_day/late_night_josephine/init": "Look how late it is! Time sure does fly these days.",
+    "Conversations/General Dialogue/time_of_day/late_night_juniper/1": "I don't think the day really starts until the sun sets.",
+    "Conversations/General Dialogue/time_of_day/late_night_juniper/init": "Ahh.",
+    "Conversations/General Dialogue/time_of_day/late_night_landen/init": "Nice thing about retiring is you can stay up as late you want!",
+    "Conversations/General Dialogue/time_of_day/late_night_march/init": "Evening...",
+    "Conversations/General Dialogue/time_of_day/late_night_seridia/init": "It's interesting to see how quiet Mistria becomes at night. Those poor human eyes of yours aren't much for night vision, are they?",
+    "Conversations/General Dialogue/time_of_day/late_night_summer/init": "Hope it cools off a bit, now that the sun is down...",
+    "Conversations/General Dialogue/time_of_day/late_night_valen/init": "Up a bit late, aren't we? Be sure to let me know if you're having trouble sleeping.",
+    "Conversations/General Dialogue/time_of_day/late_night_winter/init": "Brr! You can really feel that temperature drop now that the sun has set."
+}

@@ -1,0 +1,8 @@
+{
+    "ui/tutorials/magic/steps/0/text": "Various magic spells will unlock\nthroughout the course of the game.",
+    "ui/tutorials/magic/steps/1/text": "To use an unlocked spell, select\nand pin it from the magic page\nin your journal.",
+    "ui/tutorials/magic/steps/2/text": "Press & hold the button prompt\nindicated on the pinned spell's\nicon to cast it.",
+    "ui/tutorials/magic/steps/3/text": "Different spells require different\namounts of Mana. Mana restores\na little bit each day.",
+    "ui/tutorials/magic/steps/4/text": "If you're lucky, you might\neven come across a potion that\nrestores some Mana instantly!",
+    "ui/tutorials/magic/steps/5/text": "More Mana orbs will unlock\nthroughout the game to increase\nyour maximum capacity."
+}

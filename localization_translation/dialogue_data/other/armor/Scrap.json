@@ -1,0 +1,12 @@
+{
+    "items/other/armor/scrap_metal_boots/description": "Boots constructed out of scrap metal. Equip to increase defense.",
+    "items/other/armor/scrap_metal_boots/name": "Scrap Metal Boots",
+    "items/other/armor/scrap_metal_chestpiece/description": "A chestpiece constructed out of scrap metal. Equip to increase defense.",
+    "items/other/armor/scrap_metal_chestpiece/name": "Scrap Metal Chestpiece",
+    "items/other/armor/scrap_metal_helmet/description": "A helmet constructed out of scrap metal. Equip to increase defense.",
+    "items/other/armor/scrap_metal_helmet/name": "Scrap Metal Helmet",
+    "items/other/armor/scrap_metal_pants/description": "Pants constructed out of scrap metal. Equip to increase defense.",
+    "items/other/armor/scrap_metal_pants/name": "Scrap Metal Pants",
+    "items/other/armor/scrap_metal_ring/description": "A scrap metal ring. Equip to increase defense.",
+    "items/other/armor/scrap_metal_ring/name": "Scrap Metal Ring"
+}

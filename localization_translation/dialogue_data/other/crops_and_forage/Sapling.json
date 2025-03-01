@@ -1,0 +1,16 @@
+{
+    "items/other/crops_and_forage/sapling_apple/description": "An apple tree sapling. This tree can be planted any time of year, but will only fruit in the fall.",
+    "items/other/crops_and_forage/sapling_apple/name": "Apple Sapling",
+    "items/other/crops_and_forage/sapling_cherry/description": "A cherry tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
+    "items/other/crops_and_forage/sapling_cherry/name": "Cherry Sapling",
+    "items/other/crops_and_forage/sapling_lemon/description": "A lemon tree sapling. This tree can be planted any time of year, but will only fruit in the spring.",
+    "items/other/crops_and_forage/sapling_lemon/name": "Lemon Sapling",
+    "items/other/crops_and_forage/sapling_orange/description": "An orange tree sapling. This tree can be planted any time of year, but will only fruit in the fall.",
+    "items/other/crops_and_forage/sapling_orange/name": "Orange Sapling",
+    "items/other/crops_and_forage/sapling_peach/description": "A peach tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
+    "items/other/crops_and_forage/sapling_peach/name": "Peach Sapling",
+    "items/other/crops_and_forage/sapling_pear/description": "A pear tree sapling. This tree can be planted any time of year, but will only fruit in the summer.",
+    "items/other/crops_and_forage/sapling_pear/name": "Pear Sapling",
+    "items/other/crops_and_forage/sapling_pomegranate/description": "A pomegranate tree sapling. This tree can be planted any time of year, but will only fruit in the winter.",
+    "items/other/crops_and_forage/sapling_pomegranate/name": "Pomegranate Sapling"
+}

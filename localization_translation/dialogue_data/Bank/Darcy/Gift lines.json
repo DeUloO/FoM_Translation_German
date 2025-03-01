@@ -1,0 +1,11 @@
+{
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/ant/init": "Don't you dare bring $Ants$ near my stall! They'll get into everything!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/birthday_gift/init": "You knew it was my birthday? Gosh, [Ari]! Thank you!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/disliked_gift/init": "Ah, is this for me...?",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/liked_gift/init": "I really like this, [Ari]! Thanks, you're so generous!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/liked_gift_2/init": "Oh, this looks nice. I'm gonna make it into something tasty!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/loved_gift/init": "Ooh, thanks [Ari]! This is exactly what I need for a new recipe I'm working on!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/loved_gift_2/init": "I was just thinking I should stock up, and this is exactly what I needed! You're so on it, [Ari]!",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/neutral_gift/init": "For me? Thank you.",
+    "Conversations/Bank/Darcy/Gift Lines/gift_lines/neutral_gift_drinks/init": "Oh, thank you [Ari], but I get more than enough coffee and tea in my line of work. I do appreciate the thought, though."
+}

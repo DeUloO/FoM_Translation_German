@@ -1,0 +1,6 @@
+{
+    "Conversations/gameplay_triggered/chicken_statue_has_currency/init": "A mysterious looking chicken statue. Throw in some shiny beads?",
+    "Conversations/gameplay_triggered/chicken_statue_has_currency/init/prompts/0": "[statue_cost_low] Beads",
+    "Conversations/gameplay_triggered/chicken_statue_has_currency/init/prompts/1": "[statue_cost_high] Beads",
+    "Conversations/gameplay_triggered/chicken_statue_has_currency/init/prompts/2": "Not Today"
+}

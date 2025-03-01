@@ -1,0 +1,12 @@
+{
+    "items/other/armor/copper_armor/description": "A copper chest piece. Equip to increase defense.",
+    "items/other/armor/copper_armor/name": "Copper Armor",
+    "items/other/armor/copper_greaves/description": "A pair of copper greaves. Equip to increase defense.",
+    "items/other/armor/copper_greaves/name": "Copper Greaves",
+    "items/other/armor/copper_helmet/description": "A copper helmet. Equip to increase defense.",
+    "items/other/armor/copper_helmet/name": "Copper Helmet",
+    "items/other/armor/copper_legplates/description": "A pair of copper legplates. Equip to increase defense.",
+    "items/other/armor/copper_legplates/name": "Copper Legplates",
+    "items/other/armor/copper_ring/description": "A copper ring. Equip to increase defense.",
+    "items/other/armor/copper_ring/name": "Copper Ring"
+}

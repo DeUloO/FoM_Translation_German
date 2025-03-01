@@ -1,0 +1,16 @@
+{
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/birthday_gift/1": "Don't mind if I do! Thanks, pal!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/birthday_gift/init": "A birthday gift? For me?",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/disliked_gift/init": "Are you sure you didn't intend this for someone else? Oh... I see...",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/liked_gift/init": "Well now, I do like a nice gift! Thanks, buddy!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/liked_gift_2/1": "But since you already did... thanks!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/liked_gift_2/init": "[Ari], you didn't have to go all out of your way!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/liked_gift_edible/init": "Thank you, [Ari]! I'm gonna make a little snack out of this later.",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/liked_gift_materials/init": "This is real helpful. Basic materials like this are always needed for repairs!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/loved_gift/init": "Now this is what I'm talking about! I love it, [Ari]!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/loved_gift_2/init": "Ain't that something! This is just what I like to see! Thank you, [Ari]!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/loved_gift_crafting/init": "Ooh [Ari], thank you! I'm going to turn this into something that turns heads!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/loved_gift_quality/init": "You can't be around as long as I have and not appreciate quality like this! Look at that luster! That shine! Thank you, [Ari]!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/neutral_gift/init": "Thanks!",
+    "Conversations/Bank/Landen/Gift Lines/gift_lines/roly_poly/init": "A $Roly Poly$? Errol used to give me those when we were kids! I didn't like it then, and I don't like it now!"
+}

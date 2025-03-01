@@ -1,0 +1,9 @@
+{
+    "ui/tutorials/cooking/steps/0/text": "Step 1: \nOpen the cooking menu by \ninteracting with a kitchen.",
+    "ui/tutorials/cooking/steps/1/text": "Step 2: \nSelect what you want to cook on \nthe left side of the menu.",
+    "ui/tutorials/cooking/steps/2/text": "Step 3: \nIngredients, kitchen lvl, skill lvl & time required are on the right.",
+    "ui/tutorials/cooking/steps/3/text": "Step 4: \nSelect \"ok\" to cook!",
+    "ui/tutorials/cooking/steps/4/text": "Cooked dishes make great gifts, and will restore stamina and HP when eaten!",
+    "ui/tutorials/cooking/steps/5/text": "New recipes can be purchased and discovered in a variety of ways.",
+    "ui/tutorials/cooking/steps/6/text": "Unlock skill perks to create infused items with special attributes!"
+}

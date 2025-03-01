@@ -1,0 +1,14 @@
+{
+    "items/other/blacksmithing/watering_can_copper/description": "A copper watering can. Can be charged to water 3 tiles in a row.",
+    "items/other/blacksmithing/watering_can_copper/name": "Copper Watering Can",
+    "items/other/blacksmithing/watering_can_gold/description": "A splendid golden watering can. Can be charged to water a 6x6 area.",
+    "items/other/blacksmithing/watering_can_gold/name": "Gold Watering Can",
+    "items/other/blacksmithing/watering_can_iron/description": "An iron watering can. Can be charged to water a 3x3 area.",
+    "items/other/blacksmithing/watering_can_iron/name": "Iron Watering Can",
+    "items/other/blacksmithing/watering_can_mistril/description": "A watering can made from mistril. Can be charged to water a 6x9 area.",
+    "items/other/blacksmithing/watering_can_mistril/name": "Mistril Watering Can",
+    "items/other/blacksmithing/watering_can_silver/description": "A silver watering can. Can be charged to water a 3x6 area.",
+    "items/other/blacksmithing/watering_can_silver/name": "Silver Watering Can",
+    "items/other/blacksmithing/watering_can_worn/description": "A worn but still serviceable watering can. Used to water plants.",
+    "items/other/blacksmithing/watering_can_worn/name": "Worn Watering Can"
+}

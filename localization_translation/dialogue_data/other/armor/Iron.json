@@ -1,0 +1,12 @@
+{
+    "items/other/armor/iron_armor/description": "A chestpiece constructed out of iron. Equip to increase defense.",
+    "items/other/armor/iron_armor/name": "Iron Armor",
+    "items/other/armor/iron_greaves/description": "Greaves constructed out of iron. Equip to increase defense.",
+    "items/other/armor/iron_greaves/name": "Iron Greaves",
+    "items/other/armor/iron_helmet/description": "A helmet constructed out of iron. Equip to increase defense.",
+    "items/other/armor/iron_helmet/name": "Iron Helmet",
+    "items/other/armor/iron_legplates/description": "Legplates constructed out of iron. Equip to increase defense.",
+    "items/other/armor/iron_legplates/name": "Iron Legplates",
+    "items/other/armor/iron_ring/description": "A ring constructed out of iron. Equip to increase defense.",
+    "items/other/armor/iron_ring/name": "Iron Ring"
+}

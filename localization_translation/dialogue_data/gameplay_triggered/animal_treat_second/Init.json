@@ -1,0 +1,5 @@
+{
+    "Conversations/gameplay_triggered/animal_treat_second/init": "Give $[ANIMAL_NAME]$ a Heart Treat? If you do, they'll mate with $[BREEDING_PARTNER]$.",
+    "Conversations/gameplay_triggered/animal_treat_second/init/prompts/0": "Yes",
+    "Conversations/gameplay_triggered/animal_treat_second/init/prompts/1": "No"
+}

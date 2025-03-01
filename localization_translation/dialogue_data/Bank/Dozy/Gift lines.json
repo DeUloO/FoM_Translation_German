@@ -1,0 +1,14 @@
+{
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/birthday_gift/init": "(Dozy seems happy to receive a birthday present! He's wagging his tail extra hard.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/chili_pepper/init": "(Dozy is attempting to bury your gift into the hardwood floor...)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/disliked_gift/init": "(Dozy does not appear to know what to do with your gift.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/liked_gift/init": "(Dozy licks your hand in appreciation.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/liked_gift_2/init": "(Dozy seems content with your gift.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/liked_gift_fish_1/init": "(Dozy cheerfully accepts your fishy gift.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/liked_gift_fish_2/init": "(Dozy gladly accepts the gift of a fish.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/loved_gift/init": "(Dozy's tail wags furiously, he's overwhelmed by your thoughtfulness.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/loved_gift_2/init": "(Dozy offers a paw, and you can feel the warmth of his gratitude as you shake.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/loved_gift_edible/init": "(Dozy accepts the delicious treat with great enthusiasm.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/loved_gift_wood/init": "(Dozy is thrilled to have a new stick to play with! His tail whips back and forth excitedly.)",
+    "Conversations/Bank/Dozy/Gift Lines/gift_lines/neutral_gift/init": "(Dozy wags his tail.)"
+}

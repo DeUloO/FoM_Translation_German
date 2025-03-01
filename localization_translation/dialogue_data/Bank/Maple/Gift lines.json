@@ -1,0 +1,20 @@
+{
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/berries_and_cream/init": "I love =Berries and Cream=! It's a dessert fit for royalty!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/birthday_gift/init": "You remembered my birthday! Thank you [Ari]! I feel like a queen!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/disliked_gift/init": "BY ROYAL DECREE, I DECLARE... this to be kind of a whatever gift, [Ari].",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/liked_gift/init": "BY ROYAL DECREE, I DECLARE... that Princess Maple is most pleased with your gift, [Ari].",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/liked_gift_2/init": "Princess Maple thanks you for your generosity, [Ari].",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/liked_gift_edible/init": "Princess Maple is always happy to accept a tasty treat!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/liked_gift_royal/init": "Princess Maple appreciates your offering. She thinks it's really pretty!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/lost_crown_of_aldaria/1": "I finally have my own crown.",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/lost_crown_of_aldaria/init": "Oh my gosh! [Ari]! Thank you so so much! ",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift/1": "I mean, Princess Maple thanks you for your tribute.",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift/init": "It's so pretty! Thank you, I love it!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift_2/1": "Thanks, [Ari]!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift_2/init": "Princess Maple acknowledges your contribution to her royal treasury and graciously extends her most gracious gratitude!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift_edible/init": "Princess Maple loves only the fanciest and most royal of desserts! [Ari]'s offering pleases her greatly.",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift_royal/1": "She's gonna become, like... so powerful!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/loved_gift_royal/init": "Princess Maple's influence grows with the many symbols of her kingdom!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/neutral_gift/init": "BY ROYAL DECREE, I DECLARE... that this gift is okay!",
+    "Conversations/Bank/Maple/Gift Lines/gift_lines/peat/init": "$Peat$? $PEAT$? You insult Princess Maple! Begone, peasant!"
+}
