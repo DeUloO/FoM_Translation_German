@@ -1,0 +1,12 @@
+{
+    "Conversations/Bank/Taliferro/Banked Lines/basement/basement_1/init": "I'm not above making niceties with the little people. Hello to you.",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/birthday_gift/1": "I graciously receive it. You're welcome.",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/birthday_gift/init": "Well well well. A birthday present? For me?",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/disliked_gift/init": "What am I supposed to do with your rubbish? Throw it out yourself!",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/liked_gift/init": "This is a pleasing gift, [Ari]. I see you know how to treat nobility, hah!",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/liked_gift_2/init": "Ah yes, this will do nicely for the time being. But I expect a meal fit for a king next time!",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/liked_gift_3/1": "Oh, it's a gift? I accept.",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/liked_gift_3/init": "What is this? I didn't order this!",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/loved_gift/init": "It's a given that I deserve only the finest, but nonetheless... thank you, [Ari]. This will do nicely.",
+    "Conversations/Bank/Taliferro/Gift Lines/gift_lines/loved_gift_2/init": "As a noble from the Capital, I have quite a developed palate... and judging by this gift, it seems you do as well."
+}
