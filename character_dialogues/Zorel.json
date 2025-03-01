@@ -9,7 +9,5 @@
     "Conversations/Bank/Zorel/Gift Lines/gift_lines/liked_gift_mushroom/init": "Oh, nice. Mushrooms are my jam.",
     "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift/init": "Thanks, [Ari]. This is really special.",
     "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift_artifact/init": "Hey, this is nice. I'll tuck it into the corner of my lute-case, so I'll always have it with me.",
-    "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift_edible/init": "Oh, nice. I'm partial to meals like this. Thanks, [Ari].",
-    "npcs/zorel/job": "Music Vendor",
-    "npcs/zorel/name": "Zorel"
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift_edible/init": "Oh, nice. I'm partial to meals like this. Thanks, [Ari]."
 }
