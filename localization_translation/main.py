@@ -106,6 +106,9 @@ def main():
         print("2. Edit existing translations")
         print("3. Exit")
 
+        origin = repo.remotes.origin
+        origin.pull()
+
         choice = input("Enter your choice: ").strip()
 
         if choice == "1":
