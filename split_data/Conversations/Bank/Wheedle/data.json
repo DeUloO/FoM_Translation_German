@@ -1,0 +1,18 @@
+{
+    "Conversations/Bank/Wheedle/Banked Lines/basement/basement_1/init": "Hello!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/birthday_gift/1": "Thank you! Huhuhu!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/birthday_gift/init": "Well now! It's not every day someone gives me something for nothing, even on my birthday!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/disliked_gift/init": "Is this a regift? No, don't answer... I understand. I'll find a use for it.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/fiber/init": "Why [Ari], how did you know? There's nothing I like more than a wheed.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/liked_gift/init": "Oh, yes, I can always use something like this.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/liked_gift_2/init": "Yes, yes, very good. One can never have enough of something as nice as this! Into my collection it goes!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/liked_gift_precious/init": "Yes, yes, this is a fine gift indeed. What's the going rate for this, anyway?",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/liked_gift_quality/init": "I know quality goods when I see them. And I'm seeing them!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/loved_gift/init": "My my, this is just the thing. And for me? Delightful!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/loved_gift_2/1": "But it doesn't hurt to butter me up with great stuff like this.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/loved_gift_2/init": "You'll always get the best deal from your old pal, Wheedle!",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/loved_gift_quality/init": "For me? My my... I could never regift such perfection.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/neutral_gift/init": "Thanks.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/sod/1": "Wheedle will remember this.",
+    "Conversations/Bank/Wheedle/Gift Lines/gift_lines/sod/init": "$Sod$? $SOD$?"
+}

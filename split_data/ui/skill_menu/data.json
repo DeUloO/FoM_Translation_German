@@ -1,0 +1,12 @@
+{
+    "ui/skill_menu/archaeology/name": "Archaeology",
+    "ui/skill_menu/blacksmithing/name": "Blacksmithing",
+    "ui/skill_menu/combat/name": "Combat",
+    "ui/skill_menu/cooking/name": "Cooking",
+    "ui/skill_menu/farming/name": "Farming",
+    "ui/skill_menu/fishing/name": "Fishing",
+    "ui/skill_menu/mining/name": "Mining",
+    "ui/skill_menu/mount/name": "Mistmare",
+    "ui/skill_menu/ranching/name": "Ranching",
+    "ui/skill_menu/woodcrafting/name": "Woodcrafting"
+}

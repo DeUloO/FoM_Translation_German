@@ -1,0 +1,13 @@
+{
+    "Conversations/Bank/Zorel/Banked Lines/basement/basement_1/init": "Hey, nice to see you.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/birthday_gift/1": "Thanks, [Ari].",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/birthday_gift/init": "You got me something for my birthday? That's cool.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/disliked_gift/init": "Can you leave it over there? I'll check it out once I'm done tuning...",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/liked_gift/init": "Oh, nice. I like it... thanks, you.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/liked_gift_2/init": "Oh, this is cool. Thanks, [Ari].",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/liked_gift_crystal/init": "Crystalline stuff like this always makes me think of music, y'know? Something about the way it shimmers. Thanks, [Ari].",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/liked_gift_mushroom/init": "Oh, nice. Mushrooms are my jam.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift/init": "Thanks, [Ari]. This is really special.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift_artifact/init": "Hey, this is nice. I'll tuck it into the corner of my lute-case, so I'll always have it with me.",
+    "Conversations/Bank/Zorel/Gift Lines/gift_lines/loved_gift_edible/init": "Oh, nice. I'm partial to meals like this. Thanks, [Ari]."
+}

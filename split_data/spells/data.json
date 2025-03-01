@@ -1,0 +1,13 @@
+{
+    "spells/default/description": "<n/a>",
+    "spells/default/name": "<n/a>",
+    "spells/full_restore/description": "Restores all of your Stamina and HP when cast.",
+    "spells/full_restore/name": "Full Restore",
+    "spells/full_restore/type": "Healing",
+    "spells/growth/description": "Fully grows crops in a 3x3 area when cast. It can also progress tree growth by 1 stage.",
+    "spells/growth/name": "Growth",
+    "spells/growth/type": "Farming",
+    "spells/summon_rain/description": "Summons a brief rain storm that waters all of your crops when cast.",
+    "spells/summon_rain/name": "Summon Rain",
+    "spells/summon_rain/type": "Farming"
+}

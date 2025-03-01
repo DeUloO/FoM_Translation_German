@@ -1,0 +1,8 @@
+{
+    "Conversations/temporary_gift_lines/birthday/init": "(PLACEHOLDER) This is a gift, and it's my birthday!",
+    "Conversations/temporary_gift_lines/disliked_gift/init": "(PLACEHOLDER) This is a basement line for NPCs receiving a disliked gift!",
+    "Conversations/temporary_gift_lines/hated_gift/1": "I hate this!",
+    "Conversations/temporary_gift_lines/hated_gift/init": "Wow!",
+    "Conversations/temporary_gift_lines/loved_gift/init": "(PLACEHOLDER) This is a basement line for NPCs receiving a loved gift!",
+    "Conversations/temporary_gift_lines/neutral_gift/init": "Thanks, [Ari]!"
+}

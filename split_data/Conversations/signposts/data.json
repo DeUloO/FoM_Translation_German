@@ -1,0 +1,16 @@
+{
+    "Conversations/signposts/carpenters_sign/init": "Carpenter's Shop\n",
+    "Conversations/signposts/dig_site/init": "Archaeological Dig Site\n",
+    "Conversations/signposts/eastern_road_central/init": "$North:$ The Deep Woods, Carpenter's Shop\n$Northwest:$ Town",
+    "Conversations/signposts/eastern_road_north_east/init": "$North:$ The Deep Woods\n$West:$ Town, Carpenter's Shop\n$East:$ Town Exit",
+    "Conversations/signposts/eastern_road_north_west/init": "$North:$ The Deep Woods\n$West:$ Town",
+    "Conversations/signposts/eastern_road_south/init": "$North:$ The Deep Woods, Carpenter's Shop\n$West:$ Town",
+    "Conversations/signposts/haydens_farm_east/init": "$Northwest:$ The Narrows, Museum, Mines\n$East:$ [farm_name]\n$Southwest:$ Beach\n",
+    "Conversations/signposts/haydens_farm_west/init": "$North:$ The Narrows, Museum, Mines\n$East:$ [farm_name]\n$South:$ Beach\n",
+    "Conversations/signposts/narrows_north_east/init": "$North:$ Museum, Summit\n$Northwest:$ Mines, Western Ruins\n$Southwest:$ Hayden's Farm, Beach",
+    "Conversations/signposts/narrows_south_east/init": "$North:$ Museum, Mines\n$Northwest:$ Western Ruins\n$Southwest:$ Hayden's Farm, Beach",
+    "Conversations/signposts/town_north_east/init": "$West:$ Town\n$East:$ Eastern Road, Carpenter's Shop\n$Southwest:$ [farm_name]",
+    "Conversations/signposts/town_north_west/init": "$East:$ Town\n$West:$ The Narrows, Museum, Mines\n$Southeast:$ [farm_name]",
+    "Conversations/signposts/town_south/init": "$North:$ Town\n$South:$ [farm_name]\n",
+    "Conversations/signposts/town_south_central/init": "$North:$ Town\n$East:$ Eastern Road, Carpenter's Shop\n$West:$ The Narrows, Museum, Mines"
+}

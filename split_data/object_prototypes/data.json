@@ -1,0 +1,8 @@
+{
+    "object_prototypes/building/large_barn/name": "Large Barn",
+    "object_prototypes/building/large_coop/name": "Large Coop",
+    "object_prototypes/building/medium_barn/name": "Medium Barn",
+    "object_prototypes/building/medium_coop/name": "Medium Coop",
+    "object_prototypes/building/small_barn/name": "Small Barn",
+    "object_prototypes/building/small_coop/name": "Small Coop"
+}

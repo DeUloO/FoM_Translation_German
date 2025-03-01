@@ -1,0 +1,14 @@
+{
+    "items/mines/lava_caves/ash_mushroom/description": "A delicate mushroom that releases ashlike spores when jostled.",
+    "items/mines/lava_caves/ash_mushroom/name": "Ash Mushroom",
+    "items/mines/lava_caves/breath_of_fire/description": "These beautiful flowers continue to glow, even after they've been picked.",
+    "items/mines/lava_caves/breath_of_fire/name": "Breath of Fire",
+    "items/mines/lava_caves/flame_pepper/description": "These incredibly hot peppers should be handled with care.",
+    "items/mines/lava_caves/flame_pepper/name": "Flame Pepper",
+    "items/mines/lava_caves/hot_potato/description": "This pre-cooked wild potato has a spicy flavor and creamy texture.",
+    "items/mines/lava_caves/hot_potato/name": "Hot Potato",
+    "items/mines/lava_caves/lava_chestnuts/description": "These delicious chestnuts come pre-cooked! A great snack, but smells a bit like sulfur.",
+    "items/mines/lava_caves/lava_chestnuts/name": "Lava Chestnuts",
+    "items/mines/lava_caves/obsidian/description": "A shard of volcanic glass.",
+    "items/mines/lava_caves/obsidian/name": "Obsidian"
+}
