@@ -1,7 +1,0 @@
-{
-    "ui/tutorials/museum/steps/0/text": "Step 1: \nOpen the museum menu by interacting\nwith the museum ledger.",
-    "ui/tutorials/museum/steps/1/text": "Step 2: \nPut the items you want to donate\ninto the donation box and hit \"Donate\".",
-    "ui/tutorials/museum/steps/2/text": "You will see which sets your items\nwent into, and how close those sets\nare to completion.",
-    "ui/tutorials/museum/steps/3/text": "You can check the museum wings at \nthe ledger to see set completion \nstatuses and reward hints.",
-    "ui/tutorials/museum/steps/4/text": "You can check item tooltips to see\nif an item belongs to a set, and if\nyou have already donated it or not!"
-}

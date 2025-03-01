@@ -1,6 +1,0 @@
-{
-    "Conversations/gameplay_triggered/wishing_well_interaction/init": "A mysterious looking well. Throw in some coins?",
-    "Conversations/gameplay_triggered/wishing_well_interaction/init/prompts/0": "[statue_cost_low] t",
-    "Conversations/gameplay_triggered/wishing_well_interaction/init/prompts/1": "[statue_cost_high] t",
-    "Conversations/gameplay_triggered/wishing_well_interaction/init/prompts/2": "Not Today"
-}

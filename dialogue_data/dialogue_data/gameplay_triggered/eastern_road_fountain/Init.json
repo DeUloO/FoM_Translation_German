@@ -1,5 +1,0 @@
-{
-    "Conversations/gameplay_triggered/eastern_road_fountain/init": "Clear water fills the fountain. Drink some?",
-    "Conversations/gameplay_triggered/eastern_road_fountain/init/prompts/0": "Yes",
-    "Conversations/gameplay_triggered/eastern_road_fountain/init/prompts/1": "No"
-}

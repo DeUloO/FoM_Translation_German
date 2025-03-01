@@ -1,5 +1,0 @@
-{
-    "Conversations/gameplay_triggered/juniper_bathhouse_offer/init": "Hm? Oh you're here for the bath... yes, you do look like you need one. Of course, it'll cost you [BATHHOUSE_COST] tesserae... can you afford that?",
-    "Conversations/gameplay_triggered/juniper_bathhouse_offer/init/prompts/0": "Yes, here you are!",
-    "Conversations/gameplay_triggered/juniper_bathhouse_offer/init/prompts/1": "On second thought, maybe not."
-}

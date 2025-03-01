@@ -1,5 +1,0 @@
-{
-    "Conversations/gameplay_triggered/dozy_bathhouse_offer/init": "(Dozy tilts his head, it's clear he wants to know if you're here for a bath)",
-    "Conversations/gameplay_triggered/dozy_bathhouse_offer/init/prompts/0": "Here's [BATHHOUSE_COST] tesserae for the bath!",
-    "Conversations/gameplay_triggered/dozy_bathhouse_offer/init/prompts/1": "Uh... no thank you!"
-}
