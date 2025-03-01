@@ -92,7 +92,7 @@ def add_translation():
             save_json(OUTPUT_FILE, output_data)
             save_progress(key)
             repo.index.add([OUTPUT_FILE, PROGRESS_FILE])
-            repo.commit()
+            repo.index.commit("Updated Translation.")
             repo.git.push()
 
             print(f"Translation for '{key}' saved.\n")
