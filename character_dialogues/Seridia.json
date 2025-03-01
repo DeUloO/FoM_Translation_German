@@ -1,0 +1,11 @@
+{
+    "Conversations/Bank/Seridia/Banked Lines/basement/basement_1/init": "You're just... saying hello? Mortals have become quite impudent.",
+    "Conversations/Bank/Seridia/Gift Lines/gift_lines/disliked_gift/init": "If you're going to pay me tribute, it OUGHT to be something nice.",
+    "Conversations/Bank/Seridia/Gift Lines/gift_lines/liked_gift/init": "This gift... is worthy of me. Well done, mortal.",
+    "Conversations/General Dialogue/time_of_day/early_morning_seridia/init": "Oh, did you just wake up? For someone like me, sleep is more... optional.",
+    "Conversations/General Dialogue/time_of_day/late_night_seridia/init": "It's interesting to see how quiet Mistria becomes at night. Those poor human eyes of yours aren't much for night vision, are they?",
+    "Conversations/General Dialogue/travel/travel_seridia/init": "I can see why you mortals like walking so much. Teleporting is quicker of course, but you miss too much.",
+    "Conversations/gameplay_triggered/inspect_seridia_statue/init": "The crumbling statue emanates a faint presence... It seems that $you can offer essence here$, despite the statue's condition.",
+    "npcs/seridia/job": "Dragon Priestess",
+    "npcs/seridia/name": "Priestess"
+}
