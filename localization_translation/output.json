@@ -102,5 +102,10 @@
     "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/12": "Ich werde mit Ryis einige Blaupausen erstellen.",
     "Cutscenes/Story Events/Town Repair/repair_the_beach_bridge/repair_the_beach_bridge_pt_1/2": "Es gibt viele Dinge, die man an Mistria lieben kann, aber meiner Meinung nach ist der Strand das Highlight!",
     "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/two_to_three_0/init": "Es scheint, als ob du dich hier in Mistria gut eingelebt hast.",
-    "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/zero_to_one_0/init": "Ich setze große Hoffnungen in dich, [Ari]!"
+    "Conversations/Bank/Adeline/Banked Lines/heart_level_lines/zero_to_one_0/init": "Ich setze große Hoffnungen in dich, [Ari]!",
+    "Conversations/Bank/Adeline/Banked Lines/inn_breakfast/inn_breakfast/1": "Ich kann alles nur wärmstens empfehlen!",
+    "Conversations/Bank/Adeline/Banked Lines/inn_breakfast/inn_breakfast/init": "Guten Morgen, [Ari]! Hast du schon etwas von der Speisekarte des Gasthauses probiert?",
+    "Conversations/Bank/Adeline/Banked Lines/inn_work/inn_work/init": "Morgendlicher Papierkram bei ein paar von Reinas =Wildbeeren Scones=... ooh, ich weiß einfach, dass es ein toller Tag werden wird!",
+    "Conversations/Bank/Adeline/Banked Lines/live_to_organize/live_to_organize/1": "Aber keine Sorge! Ich lebe für die Organisation!",
+    "Conversations/Bank/Adeline/Banked Lines/live_to_organize/live_to_organize/init": "Um die Anfragen aller in Aufgaben für das schwarze Brett umzuwandeln, ist eine Menge Organisationsarbeit nötig."
 }
