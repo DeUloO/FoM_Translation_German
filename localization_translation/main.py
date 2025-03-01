@@ -1,12 +1,14 @@
 import json
 import os
 from deep_translator import GoogleTranslator
+from git import Repo
 
 directory = os.path.dirname(__file__)
 INPUT_FILE = os.path.join(directory, "input.json")
 OUTPUT_FILE = os.path.join(directory, "output.json")
 PROGRESS_FILE = os.path.join(directory, "progress.json")
 TARGET_LANGUAGE = "de"
+repo = Repo(os.path.join(directory, ".."))
 
 def load_json(filename):
     if os.path.exists(filename):
@@ -85,7 +87,8 @@ def add_translation():
 
             response = input("Your response (press Enter to accept suggestion): ").strip()
             output_data[key] = response if response else suggested_translation
-
+            origin = repo.remotes.origin
+            origin.pull()
             save_json(OUTPUT_FILE, output_data)
             save_progress(key)
 
