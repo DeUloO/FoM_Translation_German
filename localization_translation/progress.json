@@ -1,9 +1,3 @@
 {
-    "dell_hgs_1": true,
-    "dell_hgs_2": true,
-    "dell_hgs_3": true,
-    "prologue": true,
-    "townsfolk_dell": true,
-    "dell_candy_gambit": true,
-    "dell_in_trouble": true
+    "Conversations/Activity Dialogue/hide_and_go_seek/dell_hgs_1/init": true
 }
